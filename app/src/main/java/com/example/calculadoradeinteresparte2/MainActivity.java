@@ -269,7 +269,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         //tvResultado.setText(result + "");
-        tvVistaPrevia.setText("Descuento: " + result + ", Monto neto: " + (result+(numero1)));
+        tvVistaPrevia.setText("Interes: " + result + ", Monto neto: " + (result+(numero1)));
         numero1 = 0.0f;
         numero2 = 0.0f;
         operacion = "";
