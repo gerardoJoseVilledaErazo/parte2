@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">calculadoraDeInteresParte2</string>
+    <string name="signDAC">AC</string>
+    <string name="signDe">DEL</string>
+    <string name="signPer">%</string>
+    <string name="signDivision">/</string>
+    <string name="signMul">*</string>
+    <string name="signRes">-</string>
+    <string name="signSum">+</string>
+    <string name="signIg">=</string>
+</resources>
